@@ -1,6 +1,12 @@
-# LeetCode Notebook
+<p align="center"><img width="100px" src="https://www.easyicon.net/api/resizeApi.php?id=1211491&size=128"></p>
 
-LeetCode 刷题小分队，鼓励**自我监督、分享题解**。
+# Punch
+
+## 这是什么？
+
+LeetCode 刷题小组，组织代号 *Punch*，缘起我的 LeetCode 解题本 [JalanJiang/leetcode-notebook](https://github.com/JalanJiang/leetcode-notebook)。该解题本代号 *Rum*，即朗姆酒。朗姆酒是鸡尾酒的热带气息基酒，暗指「算法与数据结构是程序员的基底」。而 *Punch* 是经典的朗姆鸡尾酒，组合为水果加烈酒，象征阳光与热情。
+
+小组鼓励**自我监督、分享题解、相互学习**。
 
 ## 如何加入？
 
@@ -14,6 +20,7 @@ LeetCode 刷题小分队，鼓励**自我监督、分享题解**。
 
 ## 加入组织，我能获得什么？
 
+- 加入讨论群，获得每日配题：一道随机题目 + 一道专题题
 - 拥有酷炫 GitHub 仓库，体验 Git 版本管理流程
 - 组织成员相互监督，防止三天打鱼两天晒网，增加每日打卡成就感
 - 获得其他组织成员的帮助，互相讨论问题，一起变强~
@@ -21,3 +28,9 @@ LeetCode 刷题小分队，鼓励**自我监督、分享题解**。
 ## 关于分组
 
 我们将根据你在申请 Issue 中所填写的「使用语言」将你分入不同的 [Team](https://github.com/orgs/leetcode-notebook/teams)，方便小组成员进行代码上的沟通。
+
+## 专题整理
+
+### 第一期：链表
+
+- [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
