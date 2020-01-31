@@ -29,6 +29,21 @@ LeetCode 刷题小组，组织代号 *Punch*，缘起我的 LeetCode 解题本 [
 
 我们将根据你在申请 Issue 中所填写的「使用语言」将你分入不同的 [Team](https://github.com/orgs/leetcode-notebook/teams)，方便小组成员进行代码上的沟通。
 
+## 小组题解仓库列表
+
+按仓库名称字典序排列如下：
+
+| 仓库 | 拥有者 | 使用语言 |
+| ---- | ---- | ---- |
+| [leetcode-notebook/byronnar](https://github.com/leetcode-notebook/byronnar) | [Byronnar](https://github.com/Byronnar) | Python |
+| [leetcode-notebook/eupho666](https://github.com/leetcode-notebook/eupho666) | [eupho](https://github.com/eupho666) | C++ |
+| [leetcode-notebook/fengqianan](https://github.com/leetcode-notebook/fengqianan) | [fengqianan](https://github.com/fengqianan) | C++ |
+| [leetcode-notebook/jalan](https://github.com/leetcode-notebook/jalan) | [江不知](https://github.com/JalanJiang) | Python，少量 Java/Python/Go/PHP/Swift
+| [leetcode-notebook/lonie233](https://github.com/leetcode-notebook/lonie233) | [Lonie](https://github.com/loniecc) | Go |
+| [leetcode-notebook/momo1314](https://github.com/leetcode-notebook/momo1314) | [XiaoHuaji★](https://github.com/momo1314) | Java |
+| [leetcode-notebook/ubuntulover](https://github.com/leetcode-notebook/ubuntulover) | [xuetao](https://github.com/UbuntuLover) | Java，少量 C++/Python |
+
+
 ## 专题整理
 
 「👍」标记为经典题。
