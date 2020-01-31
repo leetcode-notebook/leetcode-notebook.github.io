@@ -31,7 +31,21 @@ LeetCode 刷题小组，组织代号 *Punch*，缘起我的 LeetCode 解题本 [
 
 ## 专题整理
 
+「👍」标记为经典题。
+
 ### 第一期：链表
 
-- [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
-- [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- 快慢指针
+  - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+  - [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+  - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+- [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)：双指针
+- [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/solution/chuan-zhen-yin-xian-by-liweiwei1419/)：单链表的旋转操作
+- 👍[206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)：反转链表（递归法、迭代法） 
+- [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)：反转部分单链表
+- 链表排序：
+  - 归并排序：[148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
+  - 插入排序：[147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/)
+- [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)：划分链表
+- 链表相加求和：
+  - [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
