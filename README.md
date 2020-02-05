@@ -64,3 +64,7 @@ LeetCode 刷题小组，组织代号 *Punch*，缘起我的 LeetCode 解题本 [
 - [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)：划分链表
 - 链表相加求和：
   - [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
+  - [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
+- 删除链表中的重复的元素：[83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
+- 重排链表：[143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
+- 判断两个单链表（无环）是相交：[160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
