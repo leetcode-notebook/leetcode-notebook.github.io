@@ -77,3 +77,8 @@ LeetCode 刷题小组，组织代号 *Punch*，缘起我的 LeetCode 解题本 [
 - 👍[225. 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)：栈和队列知识点
 - 👍[150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
+- [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)：包含 Min 函数的栈（只让比栈顶小的元素入栈）
+- [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)：单调栈、递减栈
+- [946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)：求出栈数目和出栈序列
+- 树相关：
+  - [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
