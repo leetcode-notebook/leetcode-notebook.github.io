@@ -80,5 +80,19 @@ LeetCode 刷题小组，组织代号 *Punch*，缘起我的 LeetCode 解题本 [
 - [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)：包含 Min 函数的栈（只让比栈顶小的元素入栈）
 - [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)：单调栈、递减栈
 - [946. 验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)：求出栈数目和出栈序列
-- 树相关：
-  - [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)
+- [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)：树相关
+- [133. 克隆图](https://leetcode-cn.com/problems/clone-graph/)：栈与深搜 + 队列与广搜
+- [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)：递归或栈
+- [933. 最近的请求次数](https://leetcode-cn.com/problems/number-of-recent-calls/)：队列应用
+
+## 第三期：树
+
+### 二叉树
+
+- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)：递归/迭代（栈模拟）
+- [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)：递归/迭代（栈模拟）
+- [145. 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)：递归/迭代（栈 + 反序）
+- 👍[102. 二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)：队列
+- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)：自底向上/自顶向下
+- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)：递归/迭代（队列，层级遍历）
+- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)：递归
